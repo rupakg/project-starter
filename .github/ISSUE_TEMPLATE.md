@@ -1,8 +1,8 @@
-## Description
+### Description
 
 [Brief description of the issue.]
 
-## Environment
+### Environment
 
 [List the environment/setup that you have. Give as much information as you can.]
 
